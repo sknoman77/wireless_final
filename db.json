@@ -1,0 +1,31 @@
+{
+	"studentAddress": [
+		{
+			"H.No": "1243",
+			"Name": "Sk Noman",
+			"locality": "Barishal",
+			"id": "10461"
+		},
+
+		{
+			"H.No": "1243",
+			"Name": "MD Nasim",
+			"locality": "Meherpur",
+			"id": "10463"
+		},
+
+		{
+			"H.No": "1247",
+			"Name": "Ahmed Ragib",
+			"locality": "Barishal",
+			"id": "10487"
+		},
+		{
+			"H.No": "1247",
+			"Name": "Saivi",
+			"locality": "Barishal",
+			"id": "10466"
+		}
+	
+	]
+}
